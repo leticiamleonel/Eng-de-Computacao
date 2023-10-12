@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1648648280 source:c:\users\mirelle\desktop\trabalhofinalv4\main.cpp
+	<iostream>
+	"ListaA.h"
+	"FilaP.h"
+	"OperacoesEsp.h"
+	"ArvoreB.h"
+	<clocale>
+
+1648631630 c:\users\mirelle\desktop\trabalhofinalv4\listaa.h
+	<iostream>
+	"global.h"
+
+1648631256 source:c:\users\mirelle\desktop\trabalhofinalv4\implement-listaa.cpp
+	<iostream>
+	"ListaA.h"
+
+1648647854 source:c:\users\mirelle\desktop\trabalhofinalv4\implement-filap.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+
+1648646843 c:\users\mirelle\desktop\trabalhofinalv4\filap.h
+	<iostream>
+	"ListaA.h"
+	"global.h"
+
+1648646843 c:\users\mirelle\desktop\trabalhofinalv4\operacoesesp.h
+	"ListaA.h"
+	"FilaP.h"
+	"ArvoreB.h"
+	"global.h"
+
+1648632600 c:\users\mirelle\desktop\trabalhofinalv4\arvoreb.h
+	<iostream>
+	"ListaA.h"
+
+1648646843 c:\users\mirelle\desktop\trabalhofinalv4\global.h
+	<iostream>
+
+1648648768 source:c:\users\mirelle\desktop\trabalhofinalv4\implement-operacoesesp.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+	"ArvoreB.h"
+	"OperacoesEsp.h"
+
+1648647854 source:c:\users\letic\desktop\trabalhofinalv4\implement-filap.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+
+1648646843 c:\users\letic\desktop\trabalhofinalv4\filap.h
+	<iostream>
+	"ListaA.h"
+	"global.h"
+
+1648631630 c:\users\letic\desktop\trabalhofinalv4\listaa.h
+	<iostream>
+	"global.h"
+
+1648646843 c:\users\letic\desktop\trabalhofinalv4\global.h
+	<iostream>
+
+1648631256 source:c:\users\letic\desktop\trabalhofinalv4\implement-listaa.cpp
+	<iostream>
+	"ListaA.h"
+
+1648648280 source:c:\users\letic\desktop\trabalhofinalv4\main.cpp
+	<iostream>
+	"ListaA.h"
+	"FilaP.h"
+	"OperacoesEsp.h"
+	"ArvoreB.h"
+	<clocale>
+
+1648646843 c:\users\letic\desktop\trabalhofinalv4\operacoesesp.h
+	"ListaA.h"
+	"FilaP.h"
+	"ArvoreB.h"
+	"global.h"
+
+1648632600 c:\users\letic\desktop\trabalhofinalv4\arvoreb.h
+	<iostream>
+	"ListaA.h"
+
+1648649460 source:c:\users\letic\desktop\trabalhofinalv4\implement-arvorebi.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+	"ArvoreB.h"
+
+1648650709 source:c:\users\letic\desktop\trabalhofinalv4\implement-operacoesesp.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+	"ArvoreB.h"
+	"OperacoesEsp.h"
+
+1648649460 source:c:\users\mirelle\desktop\trabalhofinalv4\implement-arvorebi.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+	"ArvoreB.h"
+
+1648649460 source:c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\implement-arvorebi.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+	"ArvoreB.h"
+
+1648646843 c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\filap.h
+	<iostream>
+	"ListaA.h"
+	"global.h"
+
+1648631630 c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\listaa.h
+	<iostream>
+	"global.h"
+
+1648646843 c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\global.h
+	<iostream>
+
+1648632600 c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\arvoreb.h
+	<iostream>
+	"ListaA.h"
+
+1648647854 source:c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\implement-filap.cpp
+	<iostream>
+	"FilaP.h"
+	"ListaA.h"
+
+1648631256 source:c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\implement-listaa.cpp
+	<iostream>
+	"ListaA.h"
+
+1648653125 source:c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\main.cpp
+	<iostream>
+	"ListaA.h"
+	"FilaP.h"
+	"OperacoesEsp.h"
+	"ArvoreB.h"
+	<clocale>
+
+1648646843 c:\users\letic\desktop\trabfinal-leticia-mirelle\trabfinal-leticia-mirelle-projeto\operacoesesp.h
+	"ListaA.h"
+	"FilaP.h"
+	"ArvoreB.h"
+	"global.h"
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1655742015 source:c:\users\andre\onedrive\faculdade\2022-1\paa\trabalho ordenação\trabalho paa\implement_listaa.cpp
+	<iostream>
+	"biblio.h"
+
+1655748171 c:\users\andre\onedrive\faculdade\2022-1\paa\trabalho ordenação\trabalho paa\biblio.h
+	<iostream>
+
+1655748105 source:c:\users\andre\onedrive\faculdade\2022-1\paa\trabalho ordenação\trabalho paa\implement_operacoes.cpp
+	<iostream>
+	"biblio.h"
+
+1655747110 source:c:\users\andre\onedrive\faculdade\2022-1\paa\trabalho ordenação\trabalho paa\main.cpp
+	<iostream>
+	"biblio.h"
+	<clocale>
+
+1655742015 source:g:\meu drive\engenharia de computação\6_periodo\projeto-e-analise-de-algoritmo\trabalho paa - ordenação\implement_listaa.cpp
+	<iostream>
+	"biblio.h"
+
+1655748171 g:\meu drive\engenharia de computação\6_periodo\projeto-e-analise-de-algoritmo\trabalho paa - ordenação\biblio.h
+	<iostream>
+
+1655748841 source:g:\meu drive\engenharia de computação\6_periodo\projeto-e-analise-de-algoritmo\trabalho paa - ordenação\implement_operacoes.cpp
+	<iostream>
+	"biblio.h"
+
+1655747110 source:g:\meu drive\engenharia de computação\6_periodo\projeto-e-analise-de-algoritmo\trabalho paa - ordenação\main.cpp
+	<iostream>
+	"biblio.h"
+	<clocale>
+

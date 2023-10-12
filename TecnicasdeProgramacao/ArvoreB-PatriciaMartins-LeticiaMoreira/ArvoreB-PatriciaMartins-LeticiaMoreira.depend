@@ -1,0 +1,402 @@
+# depslib dependency file v1.0
+1673985988 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/src/header.cpp
+	"header.h"
+
+1673986103 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/header.h
+	"serializable.h"
+
+1673864982 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serializable.h
+	<string>
+
+1673367637 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/src/intSerial.cpp
+	"intSerial.h"
+
+1673367468 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/intSerial.h
+	"serializable.h"
+
+1674007186 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/main.cpp
+	<iostream>
+	<clocale>
+	"serialCurrency.h"
+	"dbtree.h"
+
+1673990431 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/record.h
+	<string>
+	"serializable.h"
+
+1673987099 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1674007132 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673990253 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/node.h
+	"serializable.h"
+	<vector>
+
+1673481564 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/main.cpp
+	<iostream>
+	<clocale>
+	"header.h"
+	"record.h"
+	"typedFile.h"
+	"intSerial.h"
+	"dbtree.h"
+	"node.h"
+
+1673367059 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/header.h
+	"serializable.h"
+
+1673367120 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serializable.h
+	<string>
+
+1673367240 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/record.h
+	<string>
+	"serializable.h"
+
+1673480656 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/typedFile.h
+	<fstream>
+	<type_traits>
+
+1673461205 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/intSerial.h
+	"serializable.h"
+
+1673481564 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	"record.h"
+	<string>
+	<vector>
+	"header.h"
+
+1673397144 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/node.h
+	"serializable.h"
+	"typedFile.h"
+	<vector>
+	"header.h"
+
+1673367056 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/src/header.cpp
+	"header.h"
+
+1673461205 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/src/intSerial.cpp
+	"intSerial.h"
+	"string"
+
+1673461447 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+
+1673461451 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-v15/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serialCurrency.h
+	"serializable.h"
+
+1673492937 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/main.cpp
+	<iostream>
+	<clocale>
+	"intSerial.h"
+	"dbtree.h"
+
+1673367059 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/header.h
+	"serializable.h"
+
+1673367120 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serializable.h
+	<string>
+
+1673367240 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/record.h
+	<string>
+	"serializable.h"
+
+1673492784 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1673461205 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/intSerial.h
+	"serializable.h"
+
+1673495069 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673494328 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/node.h
+	"serializable.h"
+	<vector>
+
+1673367056 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/src/header.cpp
+	"header.h"
+
+1673461205 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/src/intSerial.cpp
+	"intSerial.h"
+	"string"
+
+1673461447 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+
+1673461451 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serialCurrency.h
+	"serializable.h"
+
+1673526948 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/main.cpp
+	<iostream>
+	<clocale>
+	"serialCurrency.h"
+	"dbtree.h"
+
+1673461205 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/intSerial.h
+	"serializable.h"
+
+1673526102 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serializable.h
+	<string>
+
+1673529277 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673526129 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1673526079 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/record.h
+	<string>
+	"serializable.h"
+
+1673526025 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/header.h
+	"serializable.h"
+
+1673526054 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/node.h
+	"serializable.h"
+	<vector>
+
+1673526219 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/src/header.cpp
+	"header.h"
+
+1673461205 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/src/intSerial.cpp
+	"intSerial.h"
+	"string"
+
+1673529625 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+
+1673529612 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-v19/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serialCurrency.h
+	"serializable.h"
+
+1673561409 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/main.cpp
+	<iostream>
+	<clocale>
+	"serialCurrency.h"
+	"dbtree.h"
+
+1673560561 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serialCurrency.h
+	"serializable.h"
+	<iostream>
+
+1673526102 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serializable.h
+	<string>
+
+1673540067 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673561379 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1673561379 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/record.h
+	<string>
+	"serializable.h"
+
+1673526025 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/header.h
+	"serializable.h"
+
+1673540067 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/node.h
+	"serializable.h"
+	<vector>
+
+1673526219 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/src/header.cpp
+	"header.h"
+
+1673461205 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/src/intSerial.cpp
+	"intSerial.h"
+	"string"
+
+1673461205 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/include/intSerial.h
+	"serializable.h"
+
+1673561909 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1673526219 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/src/header.cpp
+	"header.h"
+
+1673526025 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/header.h
+	"serializable.h"
+
+1673526102 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/serializable.h
+	<string>
+
+1673461205 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/src/intSerial.cpp
+	"intSerial.h"
+	"string"
+
+1673461205 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/intSerial.h
+	"serializable.h"
+
+1673733469 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/main.cpp
+	<iostream>
+	<clocale>
+	"serialCurrency.h"
+	"dbtree.h"
+
+1673733348 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/serialCurrency.h
+	"serializable.h"
+	<iostream>
+
+1673540067 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673561379 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1673561379 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/record.h
+	<string>
+	"serializable.h"
+
+1673540067 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/include/node.h
+	"serializable.h"
+	<vector>
+
+1673733419 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-vRecente/ArvoreB-PatriciaMartins-LeticiaMoreira-v20/ArvoreB-PatriciaMartins-LeticiaMoreira-Atual/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1673806559 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/main.cpp
+	<iostream>
+	<clocale>
+	"serialCurrency.h"
+	"dbtree.h"
+
+1673971427 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/serialCurrency.h
+	"serializable.h"
+	<iostream>
+
+1673864982 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/serializable.h
+	<string>
+
+1673971976 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673971594 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1673865425 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/record.h
+	<string>
+	"serializable.h"
+
+1673864889 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/header.h
+	"serializable.h"
+
+1673870510 /home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/include/node.h
+	"serializable.h"
+	<vector>
+
+1673864905 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/src/header.cpp
+	"header.h"
+
+1673971477 source:/home/leticialeonel/Downloads/ArvoreB-PatriciaMartins-LeticiaMoreira-AtualComentado/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1673985988 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/src/header.cpp
+	"header.h"
+
+1673986103 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/header.h
+	"serializable.h"
+
+1673864982 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/serializable.h
+	<string>
+
+1673985918 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+	<cmath>
+
+1673986060 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/serialCurrency.h
+	"serializable.h"
+	<iostream>
+
+1673986746 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/main.cpp
+	<iostream>
+	<clocale>
+	"serialCurrency.h"
+	"dbtree.h"
+
+1673986246 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/dbtree.h
+	"typedFile.h"
+	"node.h"
+	<string>
+	<vector>
+
+1673986768 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1673865425 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/record.h
+	<string>
+	"serializable.h"
+
+1673870510 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira-Final/include/node.h
+	"serializable.h"
+	<vector>
+
+1673986060 /home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/include/serialCurrency.h
+	"serializable.h"
+	<iostream>
+
+1673985918 source:/home/patricia/Documentos/Tecnicas de Programacao/ArvoreB-PatriciaMartins-LeticiaMoreira/src/serialCurrency.cpp
+	"serialCurrency.h"
+	<string>
+	<iostream>
+	<cmath>
+

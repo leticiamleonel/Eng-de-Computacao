@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1676216387 source:/home/leticialeonel/Downloads/TP/lista-grafos-TP/EstradasEscuras/main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+
+1676301178 source:/home/patricia/Documentos/Tecnicas de Programacao/EstradasEscuras/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

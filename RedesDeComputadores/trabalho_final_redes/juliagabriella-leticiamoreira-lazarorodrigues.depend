@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1688417316 source:/home/lazaro/finalRedes/juliagabriella-leticiamoreira-lazarorodrigues/main.cpp
+	<iostream>
+	"ServerSocket.h"
+
+1688416880 /home/lazaro/finalRedes/juliagabriella-leticiamoreira-lazarorodrigues/include/ServerSocket.h
+	<iostream>
+	<thread>
+	<cstring>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<unistd.h>
+
+1688417819 source:/home/lazaro/finalRedes/juliagabriella-leticiamoreira-lazarorodrigues/src/ServerSocket.cpp
+	"ServerSocket.h"
+
